@@ -1,4 +1,4 @@
-# OC-P4-•	Anticipation des besoins en consommation électrique de bâtiments (Anticipation of electrical consumption needs of buildings)
+# OC-P4-Anticipation des besoins en consommation électrique de bâtiments (Anticipation of electrical consumption needs of buildings)
 
 ## Objectives
 
